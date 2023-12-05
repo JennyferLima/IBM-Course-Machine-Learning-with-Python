@@ -24,7 +24,7 @@
   <h2>Estrutura do Repositório/Progresso do Curso</h2>
 
 <ul>
-  <li><code>Módulo 2/</code>: Cada pasta corresponde a um módulo concluído do curso.
+  <li><code>Módulo 2</code>: Cada pasta corresponde a um módulo concluído do curso.
     <ul>
       <li><code>exercicio_1.py</code>: Exercício 1 do módulo X.</li>
       <li><code>exercicio_2.py</code>: Exercício 2 do módulo X.</li>
